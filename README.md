@@ -1,9 +1,9 @@
-# Aarush Singh portfolio — draft 02
+# Aarush Singh portfolio 
 
 Open `index.html` in a browser. No build tools or network are required for the site itself. Hash navigation opens the first case study and returns to the homepage. The GitHub, LinkedIn and ASMD Lab links require internet access.
 
 ## Source and permissions
-All images were extracted from the supplied 1351Report.pdf: hero and front render (p. 3), prototype (p. 3, cropped), demonstration (p. 4), exploded assembly (p. 14, cropped), motion animation (p. 11, cropped). `rover-stress.webp` is a reserved asset, not displayed. The functional architecture is a newly drawn conceptual diagram, not an original schematic. The course report and CAD/firmware are not redistributed. Original team asset publication permissions have not been confirmed; obtain permission and review remaining assets before deployment.
+All images were extracted from the supplied 1351Report.pdf: hero and front render (p. 3), prototype (p. 3, cropped), demonstration (p. 4), exploded assembly (p. 14, cropped), motion animation (p. 11, cropped). `rover-stress.webp` is a reserved asset, not displayed. The functional architecture is a newly drawn conceptual diagram, not an original schematic. The course report and CAD/firmware are not redistributed. 
 
 The successful demonstration, sensor modification and absence of formal quantitative testing are based on the user's account. No precision claim is made. Odyssey and L1 are intentionally omitted from selected completed work.
 
